@@ -471,7 +471,7 @@ The usage of different gdal functions are explained as followings:
   - -_main_- [main](https://github.tik.uni-stuttgart.de/st168552/swan/blob/master/main.py)
   - -_Code Structure of Arc2GdalApp_- [Code Structure of Arc2GdalApp](https://github.tik.uni-stuttgart.de/st168552/swan/img/final_flowchart.jpg)
   - -_GUI_- [GUI](https://github.tik.uni-stuttgart.de/st168552/swan/blob/master/gui.py)
-  - -_Readme_- [Readme](https://github.tik.uni-stuttgart.de/st168552/swan/blob/master/README.md)
+
   
 
 
